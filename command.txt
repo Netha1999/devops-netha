@@ -2,3 +2,4 @@ git rebase dev dev2
 git fetch 
 git merge
 git branch
+git log --oneline
