@@ -2,4 +2,8 @@ git rebase dev dev2
 git fetch 
 git merge
 git branch
+
 git commit -a -m "sdf"
+
+git log --oneline
+
