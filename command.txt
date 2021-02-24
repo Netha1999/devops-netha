@@ -1,1 +1,2 @@
 git rebase dev dev2
+git fetch 
